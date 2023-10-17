@@ -1,0 +1,21 @@
+.tab-content {
+  padding: 20px;
+  border: 1px solid #d3cdcd56;
+  border-radius: 5px;
+  background-color: #f5f5f500;
+  box-shadow: 0 0 10px rgba(90, 79, 79, 0.475);
+}
+
+.loading {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 18px;
+  color: #555;
+}
+
+.custom-tabs .nav-link {
+  color: white; 
+  height: 4rem;
+  background-color: #333333; 
+
+}

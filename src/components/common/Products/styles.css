@@ -1,0 +1,25 @@
+.product-card {
+    width: 18rem;
+    height: 100%;
+    box-shadow: 0 0 10px rgba(90, 79, 79, 0.141);
+}
+
+.product-card-img {
+    height: 180px;
+    object-fit: cover;
+}
+
+.food-card{
+    padding: 10px;
+    margin: 10px;
+}
+
+.bottom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 5px;
+}
+
+
+  
